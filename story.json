@@ -22,20 +22,20 @@
       "rate":3.4,
       "story":[
         "https://github.com/Cesar-Isaac/fakeApi/blob/8a352dd5fdd31ea52ecf9c8c5204770cacc1051e/car1.jfif",
-        "",
-        "",
+        "https://github.com/Cesar-Isaac/fakeApi/blob/0f898cd6ba271c54b3c90361dc31db46ed69d447/car2.jfif",
+        
         
       ]
     },
     {
       "id":1,
-      "provider_name":"John Watson",
+      "provider_name":"Omar Almasry",
       "avatar":"https://www.alucoildesign.com/assets/pages/media/profile/people19.png",
       "rate":2.4,
       "story":[
         "",
         "",
-        "",
+        
         
       ]
     },
