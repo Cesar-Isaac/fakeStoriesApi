@@ -1,51 +1,44 @@
 {
-  "success": true,
-  "status": 200,
-  "message": "Success",
-  "data":[
+  "stories": [
     {
-      "id":1,
-      "provider_name":"John Watson",
-      "avatar":"https://www.alucoildesign.com/assets/pages/media/profile/profile-img.png",
-      "rate":4.4,
-      "story":[
-        "https://github.com/Cesar-Isaac/fakeApi/blob/a3a7836741f0b96b3d62843ca4da15be06466211/download.jfif",
-        "https://github.com/Cesar-Isaac/fakeApi/blob/5819f803dbc4ad1f010670b191d31e2b94c7b755/download1%20(1).jfif",
-        
-        
+      "id": 1,
+      "provider_name": "John Watson",
+      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/profile-img.png",
+      "rate": 4.4,
+      "story": [
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/download.jfif",
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/download1%20(1).jfif"
       ]
     },
     {
-      "id":1,
-      "provider_name":"Maick jordan",
-      "avatar":"https://www.alucoildesign.com/assets/pages/media/profile/profile_user.jpg",
-      "rate":3.4,
-      "story":[
-        "https://github.com/Cesar-Isaac/fakeApi/blob/8a352dd5fdd31ea52ecf9c8c5204770cacc1051e/car1.jfif",
-        "https://github.com/Cesar-Isaac/fakeApi/blob/0f898cd6ba271c54b3c90361dc31db46ed69d447/car2.jfif",
-        
-        
+      "id": 2,
+      "provider_name": "Maick jordan",
+      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/profile_user.jpg",
+      "rate": 3.4,
+      "story": [
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/car1.jfif",
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/car2.jfif"
       ]
     },
     {
-      "id":1,
-      "provider_name":"Omar Almasry",
-      "avatar":"https://www.alucoildesign.com/assets/pages/media/profile/people19.png",
-      "rate":2.4,
-      "story":[
-        "https://github.com/Cesar-Isaac/fakeApi/blob/ab24cb06b7867d554c4b0ff06675132736cd8e52/fly.jfif",
-        "https://github.com/Cesar-Isaac/fakeApi/blob/e29351f5f8a42a3b96518022bf1e83d5b32d84cf/makkah1.jfif",
-        "https://github.com/Cesar-Isaac/fakeApi/blob/8d80e37ce6288914ae20300703d747489527d932/makkah2.jfif",
+      "id": 3,
+      "provider_name": "Omar Almasry",
+      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/people19.png",
+      "rate": 2.4,
+      "story": [
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/fly.jfif",
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/makkah1.jfif",
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/makkah2.jfif"
       ]
     },
     {
-      "id":1,
-      "provider_name":"lisa mohanna",
-      "avatar":"https://www.alucoildesign.com/assets/pages/media/profile/photo3.jpg",
-      "rate":3.2,
-      "story":[
-        "https://github.com/Cesar-Isaac/fakeApi/blob/a96c8a1db3207c3605184c19d2351adaf0e331b2/flowers.jfif",    
+      "id": 4,
+      "provider_name": "lisa mohanna",
+      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/photo3.jpg",
+      "rate": 3.2,
+      "story": [
+        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/flowers.jfif"
       ]
-    },
+    }
   ]
 }
