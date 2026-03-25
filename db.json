@@ -3,7 +3,7 @@
     {
       "id": 1,
       "provider_name": "John Watson",
-      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/profile-img.png",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=faces",
       "rate": 4.4,
       "story": [
         "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "provider_name": "Maick jordan",
-      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/profile_user.jpg",
+      "avatar": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=400&h=400&fit=crop&crop=faces",
       "rate": 3.4,
       "story": [
           "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
@@ -24,7 +24,7 @@
     {
       "id": 3,
       "provider_name": "Omar Almasry",
-      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/people19.png",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&h=400&fit=crop&crop=faces",
       "rate": 2.4,
       "story": [
         "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "provider_name": "lisa mohanna",
-      "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/photo3.jpg",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop&crop=faces",
       "rate": 3.2,
       "story": [
         "https://images.unsplash.com/photo-1495567720989-cebdbdd97913",
