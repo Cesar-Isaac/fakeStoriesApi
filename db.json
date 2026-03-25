@@ -7,8 +7,8 @@
       "rate": 4.4,
       "story": [
         "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/download.jfif",
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/download1%20(1).jfif"
+        "https://unsplash.com/photos/modern-lamp-illuminates-ornate-ceiling-and-skylight-hErQP_8XQfk",
+        "https://unsplash.com/photos/a-man-with-a-yellow-feather-on-his-head-FUPbFBiAy1g"
       ]
     },
     {
@@ -17,8 +17,8 @@
       "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/profile_user.jpg",
       "rate": 3.4,
       "story": [
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/car1.jfif",
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/car2.jfif"
+        "https://unsplash.com/photos/cowgirl-rides-horse-with-american-flag-on-beach-YWm271YMI_I"
+        
       ]
     },
     {
@@ -27,9 +27,8 @@
       "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/people19.png",
       "rate": 2.4,
       "story": [
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/fly.jfif",
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/makkah1.jfif",
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/makkah2.jfif"
+        "https://unsplash.com/photos/a-person-walks-through-a-grand-ancient-egyptian-temple-hall-Zm5K9YG5_j0"
+     
       ]
     },
     {
@@ -38,7 +37,8 @@
       "avatar": "https://www.alucoildesign.com/assets/pages/media/profile/photo3.jpg",
       "rate": 3.2,
       "story": [
-        "https://raw.githubusercontent.com/Cesar-Isaac/fakeStoriesApi/main/flowers.jfif"
+        "https://unsplash.com/photos/drink-and-sunglasses-on-a-beach-towel-YjLWvEeQQ38",
+        "https://unsplash.com/photos/a-colorful-lollipop-with-a-red-ribbon-on-brown-paper-Ke0iVNflRxU"
       ]
     }
   ]
